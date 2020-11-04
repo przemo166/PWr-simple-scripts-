@@ -4,7 +4,7 @@ echo "Your user name:"
 read userName
 
 echo "Please insert a path to file you want to download"
-echo "/home/pwidz....."
+echo "/home/""$userName""....."
 read path
 
 downloadFolder=$(xdg-user-dir DOWNLOAD)
