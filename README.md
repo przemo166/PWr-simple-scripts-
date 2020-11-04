@@ -1,6 +1,12 @@
 # PWr simple scripts
 A simple scripts in bash
 
+# To download scripts 
+
+```sh
+$ git clone https://github.com/przemo166/PWr_simple_scripts.git
+```
+
 # To run bash main script
 ```sh
 $ chmod u+x main.sh
