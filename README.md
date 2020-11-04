@@ -1,2 +1,2 @@
-# PWr-simple-scripts-
+# PWr simple scripts
 A simple scripts in bash
